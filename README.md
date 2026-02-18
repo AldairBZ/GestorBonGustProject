@@ -43,7 +43,7 @@ Esto permite controlar el inventario de forma digital y mantener la integridad d
 ---
 
 ## Estructura del proyecto
-
+---
 GestorBonGustProject
 │
 ├─ main.py -------------------# Archivo principal con menú y ejecución
@@ -52,7 +52,6 @@ GestorBonGustProject
 ├─ README.md -----------------# Documentación del proyecto
 ├─ requirements.txt ----------# Librerías necesarias (Aqui no se necesita, lo puse porque un proyecto grande lo tiene)
 └─ .gitignore ----------------# Archivos ignorados en Git
-
 ---
 
 ## Crear un entorno virtual para la instalacion (opcional pero recomendable):
