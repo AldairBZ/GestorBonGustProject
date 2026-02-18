@@ -1,0 +1,4 @@
+# No se requieren librerías externas.
+# Solo Python 3.10 o superior.
+
+# =D
