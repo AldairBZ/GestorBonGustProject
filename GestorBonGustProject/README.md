@@ -64,7 +64,10 @@ venv\Scripts\activate    -------- # Windows
 ```
 
 ## Ejecutar la aplicación:
+Abre la terminal con la ruta del proyecto: 
+C:\TuUsuario\windows\Downloads\GestorBonGustProject-main\GestorBonGustProject\main.py
 
 python main.py
 
+O simplemente play en el Visual Studio Code
 ## GRACIAS POR LA ATENCION =D
